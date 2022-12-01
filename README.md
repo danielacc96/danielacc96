@@ -1,5 +1,4 @@
-** - 👋 Hi, I’m @danielacc96
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me daniel.b.correaa@accenture.com
+- 👋 Hi, I’m @danielacc96
+- 👀 I’m interested in learn more about automation testing in differents languages.
+- 🌱 I’m currently learning others languages, my specialization is en Java. 
+- 📫 How to reach me daniel.b.correa@accenture.com
